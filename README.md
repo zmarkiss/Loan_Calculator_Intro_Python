@@ -1,2 +1,2 @@
 # Loan-Calculator-final-stage-
-Basic Loan calculator for annuity and differentiated payments
+Hyperskill project: Loan_Calculator_8hrs
